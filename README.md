@@ -1,5 +1,4 @@
-# mcp
-Model Context Protocol w/ Python 3.10
+# MCP
 
 Resources
 - [Anthropic Blog](https://docs.anthropic.com/en/docs/mcp)
